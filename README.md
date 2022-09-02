@@ -1,8 +1,13 @@
-# Shop(미정)
+# C#
 
 쇼핑몰 웹 애플리케이션
 
----
+- Language : JavaScript
+- Framework : React.js
+- State Manage : Redux, Redux Saga
+- Style : Styled-components
+
+
 ## TDD (Test Driven Development)
 
 테스트 코드 작성 -> 실제 코드 작성 -> 테스트 성공 순으로 구현
